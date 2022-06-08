@@ -1,0 +1,14 @@
+body{
+    background-color: lightcyan;
+}
+
+p, h1{
+    color: red;
+    text-align: center;
+}
+#ident{
+    color: fuchsia;
+}
+.centro{
+    color: rgb(0, 255, 21);
+}
